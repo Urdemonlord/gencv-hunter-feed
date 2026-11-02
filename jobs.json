@@ -1,0 +1,123 @@
+[
+  {
+    "site": "linkedin",
+    "title": "Senior Distributed Software Engineer, Golang - DGX Cloud",
+    "company": "NVIDIA",
+    "location": "Santa Clara, CA, USA",
+    "date_posted": "2026-11-01",
+    "job_type": null,
+    "is_remote": false,
+    "job_url": "https://www.linkedin.com/jobs/view/4458907228",
+    "flag_demo_like": false
+  },
+  {
+    "site": "linkedin",
+    "title": "Senior Software Engineer, Platform/Backend",
+    "company": "SentiLink",
+    "location": "Chicago, IL, USA",
+    "date_posted": "2026-11-01",
+    "job_type": null,
+    "is_remote": false,
+    "job_url": "https://www.linkedin.com/jobs/view/4459898569",
+    "flag_demo_like": false
+  },
+  {
+    "site": "linkedin",
+    "title": "Member of Technical Staff (Software Engineer, API Platform)",
+    "company": "Perplexity",
+    "location": "New York, NY, USA",
+    "date_posted": "2026-11-01",
+    "job_type": null,
+    "is_remote": false,
+    "job_url": "https://www.linkedin.com/jobs/view/4468007507",
+    "flag_demo_like": false
+  },
+  {
+    "site": "linkedin",
+    "title": "Software Developer",
+    "company": "Two Six Technologies",
+    "location": "Herndon, VA, USA",
+    "date_posted": "2026-11-01",
+    "job_type": null,
+    "is_remote": false,
+    "job_url": "https://www.linkedin.com/jobs/view/4392978464",
+    "flag_demo_like": false
+  },
+  {
+    "site": "linkedin",
+    "title": "Software Engineer, Storage",
+    "company": "DoorDash",
+    "location": "New York, NY, USA",
+    "date_posted": "2026-11-01",
+    "job_type": null,
+    "is_remote": false,
+    "job_url": "https://www.linkedin.com/jobs/view/4431899358",
+    "flag_demo_like": false
+  },
+  {
+    "site": "linkedin",
+    "title": "Sr. Staff Software Engineer - Austin, TX",
+    "company": "TrendAI",
+    "location": "Austin, Texas Metropolitan Area",
+    "date_posted": "2026-11-01",
+    "job_type": null,
+    "is_remote": false,
+    "job_url": "https://www.linkedin.com/jobs/view/4460106133",
+    "flag_demo_like": false
+  },
+  {
+    "site": "linkedin",
+    "title": "Mid/Senior Software Engineer - Developer Platform (US Federal)",
+    "company": "Workday",
+    "location": "Reston, VA, USA",
+    "date_posted": "2026-11-01",
+    "job_type": null,
+    "is_remote": false,
+    "job_url": "https://www.linkedin.com/jobs/view/4421186048",
+    "flag_demo_like": false
+  },
+  {
+    "site": "linkedin",
+    "title": "Sr. Software Engineer  - Core Platform (Hybrid)",
+    "company": "CrowdStrike",
+    "location": "New York, NY, USA",
+    "date_posted": "2026-11-01",
+    "job_type": null,
+    "is_remote": false,
+    "job_url": "https://www.linkedin.com/jobs/view/4451050386",
+    "flag_demo_like": false
+  },
+  {
+    "site": "glassdoor",
+    "title": "Product Engineer",
+    "company": "Community Phone Company",
+    "location": null,
+    "date_posted": "2026-11-02",
+    "job_type": "fulltime",
+    "is_remote": true,
+    "job_url": "https://www.glassdoor.com/job-listing/j?jl=1010313722873",
+    "flag_demo_like": false
+  },
+  {
+    "site": "glassdoor",
+    "title": "Technical Project Manager (Software Company)",
+    "company": "Castle Rock Associates",
+    "location": "USA",
+    "date_posted": "2026-11-02",
+    "job_type": "fulltime",
+    "is_remote": true,
+    "job_url": "https://www.glassdoor.com/job-listing/j?jl=1010313075014",
+    "flag_demo_like": false
+  },
+  {
+    "site": "indeed",
+    "title": "Product Engineer",
+    "company": "Community Phone",
+    "location": "Remote, USA",
+    "date_posted": "2026-11-01",
+    "job_type": "fulltime",
+    "is_remote": true,
+    "job_url": "https://www.indeed.com/viewjob?jk=b7cb159cd8a76817",
+    "flag_demo_like": false
+  }
+]
