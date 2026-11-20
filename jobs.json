@@ -4716,5 +4716,23 @@
     "max_amount": null,
     "min_amount": null,
     "added_on": "2026-11-20"
+  },
+  {
+    "added_on": "2026-11-20",
+    "company": "Mission Consultancy Services Sdn. Bhd.",
+    "company_logo": "https://media.licdn.com/dms/image/v2/C510BAQGbslRBogyKbg/company-logo_100_100/company-logo_100_100/0/1630599027146?e=1796860800&v=beta&t=k1Woc55ZkfAykT7jjnf46Cs4-rvbz-1Fb6ESmv9rtgU",
+    "currency": null,
+    "date_posted": "2026-11-19",
+    "description": "Job Summary: Our client, a fast-growing SaaS company building AI-powered lending software, is looking for a hands-on, curious Junior AI / Agentic Systems Developer to build and test AI agent workflows and support customer onboarding and migration. Working directly with the CTO, you will design autonomous and human-in-the-loop agents that automate core lending operations, including loan applications, KYC verification, credit checking, collections, and loan disbursement. You will rapidly build pilots, measure their accuracy and safety, and help move successful workflows into production.\n\nJob Description — AI Agent Development & Integration:\n- Design, prototype, and iterate on multi-step AI agent workflows for loan applications, document verification, credit risk checks, collections, and disbursement triggers.\n- Connect AI agents securely to Python (FastAPI) backend systems, PostgreSQL databases, and third-party APIs using tool calling and Model Context Protocol (MCP).\n- Contribute features to backend systems and React/TypeScript web applications, including automated testing.\n- Package agent services using Docker and deploy them on Google Cloud Platform (GCP), implementing logging, tracing, and guardrails.\n- Build deterministic checks and human-in-the-loop approval steps to prevent inaccurate financial decisions and unauthorized disbursements.\n\nCustomer Onboarding & Migration:\n- Migrate customer data from legacy systems using repeatable import scripts, ensuring record and balance accuracy.\n- Configure customer users, settings, and workflows, and support go-live activities.\n- Train customer staff remotely or on-site, prepare user guides, and provide initial support.\n\nJob Requirements — Core Backend & Cloud (Must-Have):\n- Solid proficiency in Python and experience building REST APIs with FastAPI (or Flask/Django).\n- Strong SQL and PostgreSQL skills; database migration experience is a strong plus.\n- Hands-on familiarity with Docker, Linux, and GCP services such as Cloud Run, Cloud SQL, Secret Manager, and IAM.\n- Practical experience building with Anthropic Claude using the Anthropic Python SDK, Claude Agent SDK, or Claude on Google Cloud Vertex AI, including structured outputs and tool/function use.\n\nAgentic & Workflow Engineering (Strong Plus / Willingness to Learn Fast):\n- Experience with LangGraph, Google Agent Development Kit (ADK), or custom Python state machines and job queues.\n- Familiarity with Model Context Protocol (MCP), prompt engineering, and evaluation techniques.\n- Working knowledge of React and TypeScript.\n- Familiarity with Git, Docker Compose, and automated testing (pytest).\n\nMindset & Background:\n- 2+ years of software engineering experience. Fresh graduates with strong personal or hackathon AI agent projects are encouraged to apply.\n- Strong sense of ownership, security, data privacy, and financial accuracy.\n- Ability to explain technical concepts clearly to non-technical users.\n- Based in Jakarta, Indonesia.\n- Strong Bahasa Indonesia communication skills and working proficiency in English.\n- Willingness to travel occasionally for customer onboarding.\n\nAdditional Information:\n- Location: Jakarta Region, Indonesia (Hybrid / Work from Home)\n- Employment Type: Full-Time\n- Reports To: CTO\n- Travel: Occasional, company-paid\n- Direct collaboration with the CTO on strategic projects.\n- Opportunity to develop AI prototypes into production systems.\n- Access to Anthropic models and GCP infrastructure for experimentation and development.\n\nContact: apply online or send CV to Talent@mcs-global.com, or WhatsApp https://wa.me/6282137682541",
+    "flag_demo_like": false,
+    "interval": null,
+    "is_remote": true,
+    "job_type": "Full-time",
+    "job_url": "https://www.linkedin.com/jobs/view/4492142522/",
+    "location": "Jakarta, Jakarta Raya, Indonesia (Jarak Jauh)",
+    "max_amount": null,
+    "min_amount": null,
+    "site": "linkedin",
+    "title": "Junior AI / Agentic Systems Developer"
   }
 ]
